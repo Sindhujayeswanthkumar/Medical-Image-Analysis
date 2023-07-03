@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advanced Data Science Course
+title: Medical Image Analysis
 ---
 
 ## Overview
